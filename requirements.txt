@@ -1,0 +1,5 @@
+cryptography>=39.0.0
+pymysql
+pycryptodome
+python-dotenv
+click

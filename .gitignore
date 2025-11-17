@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# certs and private keys
+certs/*.key
+certs/*.pem
+certs/*.p12
+
+# local env
+.env
+
+# logs and artifacts
+logs/
+*.pcap
+
+# archives
+*.zip
